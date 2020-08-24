@@ -1,0 +1,7 @@
+C:\Users\bryan\source\repos\MyIGME\FavColorNumber\bin\Debug\FavColorNumber.exe.config
+C:\Users\bryan\source\repos\MyIGME\FavColorNumber\bin\Debug\FavColorNumber.exe
+C:\Users\bryan\source\repos\MyIGME\FavColorNumber\bin\Debug\FavColorNumber.pdb
+C:\Users\bryan\source\repos\MyIGME\FavColorNumber\obj\Debug\FavColorNumber.csprojAssemblyReference.cache
+C:\Users\bryan\source\repos\MyIGME\FavColorNumber\obj\Debug\FavColorNumber.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\MyIGME\FavColorNumber\obj\Debug\FavColorNumber.exe
+C:\Users\bryan\source\repos\MyIGME\FavColorNumber\obj\Debug\FavColorNumber.pdb
