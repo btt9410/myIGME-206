@@ -1,0 +1,6 @@
+C:\Users\bryan\source\repos\MyIGME\SquashBugs_PE2\bin\Debug\SquashBugs_PE2.exe.config
+C:\Users\bryan\source\repos\MyIGME\SquashBugs_PE2\bin\Debug\SquashBugs_PE2.exe
+C:\Users\bryan\source\repos\MyIGME\SquashBugs_PE2\bin\Debug\SquashBugs_PE2.pdb
+C:\Users\bryan\source\repos\MyIGME\SquashBugs_PE2\obj\Debug\SquashBugs_PE2.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\MyIGME\SquashBugs_PE2\obj\Debug\SquashBugs_PE2.exe
+C:\Users\bryan\source\repos\MyIGME\SquashBugs_PE2\obj\Debug\SquashBugs_PE2.pdb

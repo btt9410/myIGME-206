@@ -70,6 +70,7 @@ namespace FavColorNumber
             // print their favorite color their favorite number of times
             for (int i = 0; i < number; ++i)
             {
+                // loop will continue for as many times as their favorite number
                 Console.WriteLine($"Your favorite color is {color + "!"}");
             }
         }
