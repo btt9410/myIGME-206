@@ -1,0 +1,7 @@
+C:\Users\bryan\source\repos\MyIGME\Variables_PE3\bin\Debug\Variables_PE3.exe.config
+C:\Users\bryan\source\repos\MyIGME\Variables_PE3\bin\Debug\Variables_PE3.exe
+C:\Users\bryan\source\repos\MyIGME\Variables_PE3\bin\Debug\Variables_PE3.pdb
+C:\Users\bryan\source\repos\MyIGME\Variables_PE3\obj\Debug\Variables_PE3.csprojAssemblyReference.cache
+C:\Users\bryan\source\repos\MyIGME\Variables_PE3\obj\Debug\Variables_PE3.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\MyIGME\Variables_PE3\obj\Debug\Variables_PE3.exe
+C:\Users\bryan\source\repos\MyIGME\Variables_PE3\obj\Debug\Variables_PE3.pdb
