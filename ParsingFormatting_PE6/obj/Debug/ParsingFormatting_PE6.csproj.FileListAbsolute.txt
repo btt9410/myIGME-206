@@ -1,0 +1,7 @@
+C:\Users\bryan\source\repos\MyIGME\ParsingFormatting_PE6\bin\Debug\ParsingFormatting_PE6.exe.config
+C:\Users\bryan\source\repos\MyIGME\ParsingFormatting_PE6\bin\Debug\ParsingFormatting_PE6.exe
+C:\Users\bryan\source\repos\MyIGME\ParsingFormatting_PE6\bin\Debug\ParsingFormatting_PE6.pdb
+C:\Users\bryan\source\repos\MyIGME\ParsingFormatting_PE6\obj\Debug\ParsingFormatting_PE6.csprojAssemblyReference.cache
+C:\Users\bryan\source\repos\MyIGME\ParsingFormatting_PE6\obj\Debug\ParsingFormatting_PE6.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\MyIGME\ParsingFormatting_PE6\obj\Debug\ParsingFormatting_PE6.exe
+C:\Users\bryan\source\repos\MyIGME\ParsingFormatting_PE6\obj\Debug\ParsingFormatting_PE6.pdb
