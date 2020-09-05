@@ -1,0 +1,6 @@
+C:\Users\bryan\source\repos\MyIGME\MadLibs_PE7\bin\Debug\MadLibs_PE7.exe.config
+C:\Users\bryan\source\repos\MyIGME\MadLibs_PE7\bin\Debug\MadLibs_PE7.exe
+C:\Users\bryan\source\repos\MyIGME\MadLibs_PE7\bin\Debug\MadLibs_PE7.pdb
+C:\Users\bryan\source\repos\MyIGME\MadLibs_PE7\obj\Debug\MadLibs_PE7.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\MyIGME\MadLibs_PE7\obj\Debug\MadLibs_PE7.exe
+C:\Users\bryan\source\repos\MyIGME\MadLibs_PE7\obj\Debug\MadLibs_PE7.pdb
