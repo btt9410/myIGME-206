@@ -1,0 +1,7 @@
+C:\Users\bryan\source\repos\MyIGME\MoreVariables_PE8\bin\Debug\MoreVariables_PE8.exe.config
+C:\Users\bryan\source\repos\MyIGME\MoreVariables_PE8\bin\Debug\MoreVariables_PE8.exe
+C:\Users\bryan\source\repos\MyIGME\MoreVariables_PE8\bin\Debug\MoreVariables_PE8.pdb
+C:\Users\bryan\source\repos\MyIGME\MoreVariables_PE8\obj\Debug\MoreVariables_PE8.csprojAssemblyReference.cache
+C:\Users\bryan\source\repos\MyIGME\MoreVariables_PE8\obj\Debug\MoreVariables_PE8.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\MyIGME\MoreVariables_PE8\obj\Debug\MoreVariables_PE8.exe
+C:\Users\bryan\source\repos\MyIGME\MoreVariables_PE8\obj\Debug\MoreVariables_PE8.pdb
