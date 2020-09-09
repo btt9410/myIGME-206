@@ -1,0 +1,7 @@
+C:\Users\bryan\source\repos\MyIGME\Functions_PE9\bin\Debug\Functions_PE9.exe.config
+C:\Users\bryan\source\repos\MyIGME\Functions_PE9\bin\Debug\Functions_PE9.exe
+C:\Users\bryan\source\repos\MyIGME\Functions_PE9\bin\Debug\Functions_PE9.pdb
+C:\Users\bryan\source\repos\MyIGME\Functions_PE9\obj\Debug\Functions_PE9.csprojAssemblyReference.cache
+C:\Users\bryan\source\repos\MyIGME\Functions_PE9\obj\Debug\Functions_PE9.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\MyIGME\Functions_PE9\obj\Debug\Functions_PE9.exe
+C:\Users\bryan\source\repos\MyIGME\Functions_PE9\obj\Debug\Functions_PE9.pdb
