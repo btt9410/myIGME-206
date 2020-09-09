@@ -2,11 +2,18 @@
 using System;
 using System.Timers;
 using System.Net;
-
+// Class Program
+// Author: Bryan Taber
+// Purpose: Inserting timer
+// Restrictions: None
 class Program
 {
     static Timer limit;
     static bool timeOut;
+    // Method: Main
+    // Purpose: Add a timer for each question asked
+    //          After 5 seconds, tell the user their time is over and they fail the question
+    // Restrictions: None
     static void Main()
     {
         // store user name
