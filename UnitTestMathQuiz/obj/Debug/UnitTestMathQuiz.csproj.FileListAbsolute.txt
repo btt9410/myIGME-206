@@ -1,0 +1,7 @@
+C:\Users\bryan\source\repos\MyIGME\UnitTestMathQuiz\bin\Debug\UnitTestMathQuiz.exe.config
+C:\Users\bryan\source\repos\MyIGME\UnitTestMathQuiz\bin\Debug\UnitTestMathQuiz.exe
+C:\Users\bryan\source\repos\MyIGME\UnitTestMathQuiz\bin\Debug\UnitTestMathQuiz.pdb
+C:\Users\bryan\source\repos\MyIGME\UnitTestMathQuiz\obj\Debug\UnitTestMathQuiz.csprojAssemblyReference.cache
+C:\Users\bryan\source\repos\MyIGME\UnitTestMathQuiz\obj\Debug\UnitTestMathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\MyIGME\UnitTestMathQuiz\obj\Debug\UnitTestMathQuiz.exe
+C:\Users\bryan\source\repos\MyIGME\UnitTestMathQuiz\obj\Debug\UnitTestMathQuiz.pdb
