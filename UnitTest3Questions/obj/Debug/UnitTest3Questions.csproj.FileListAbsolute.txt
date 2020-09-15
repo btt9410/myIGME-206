@@ -1,0 +1,7 @@
+C:\Users\bryan\source\repos\MyIGME\UnitTest3Questions\bin\Debug\UnitTest3Questions.exe.config
+C:\Users\bryan\source\repos\MyIGME\UnitTest3Questions\bin\Debug\UnitTest3Questions.exe
+C:\Users\bryan\source\repos\MyIGME\UnitTest3Questions\bin\Debug\UnitTest3Questions.pdb
+C:\Users\bryan\source\repos\MyIGME\UnitTest3Questions\obj\Debug\UnitTest3Questions.csprojAssemblyReference.cache
+C:\Users\bryan\source\repos\MyIGME\UnitTest3Questions\obj\Debug\UnitTest3Questions.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\MyIGME\UnitTest3Questions\obj\Debug\UnitTest3Questions.exe
+C:\Users\bryan\source\repos\MyIGME\UnitTest3Questions\obj\Debug\UnitTest3Questions.pdb
