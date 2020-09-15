@@ -1,0 +1,7 @@
+C:\Users\bryan\source\repos\MyIGME\UnitTestDelegate\bin\Debug\UnitTestDelegate.exe.config
+C:\Users\bryan\source\repos\MyIGME\UnitTestDelegate\bin\Debug\UnitTestDelegate.exe
+C:\Users\bryan\source\repos\MyIGME\UnitTestDelegate\bin\Debug\UnitTestDelegate.pdb
+C:\Users\bryan\source\repos\MyIGME\UnitTestDelegate\obj\Debug\UnitTestDelegate.csprojAssemblyReference.cache
+C:\Users\bryan\source\repos\MyIGME\UnitTestDelegate\obj\Debug\UnitTestDelegate.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\MyIGME\UnitTestDelegate\obj\Debug\UnitTestDelegate.exe
+C:\Users\bryan\source\repos\MyIGME\UnitTestDelegate\obj\Debug\UnitTestDelegate.pdb
