@@ -1,0 +1,7 @@
+C:\Users\bryan\source\repos\MyIGME\UnitTestNumberSort\bin\Debug\UnitTestNumberSort.exe.config
+C:\Users\bryan\source\repos\MyIGME\UnitTestNumberSort\bin\Debug\UnitTestNumberSort.exe
+C:\Users\bryan\source\repos\MyIGME\UnitTestNumberSort\bin\Debug\UnitTestNumberSort.pdb
+C:\Users\bryan\source\repos\MyIGME\UnitTestNumberSort\obj\Debug\UnitTestNumberSort.csprojAssemblyReference.cache
+C:\Users\bryan\source\repos\MyIGME\UnitTestNumberSort\obj\Debug\UnitTestNumberSort.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\MyIGME\UnitTestNumberSort\obj\Debug\UnitTestNumberSort.exe
+C:\Users\bryan\source\repos\MyIGME\UnitTestNumberSort\obj\Debug\UnitTestNumberSort.pdb
