@@ -1,0 +1,6 @@
+C:\Users\bryan\source\repos\MyIGME\UT1_BugSquash\bin\Debug\UT1_BugSquash.exe.config
+C:\Users\bryan\source\repos\MyIGME\UT1_BugSquash\bin\Debug\UT1_BugSquash.exe
+C:\Users\bryan\source\repos\MyIGME\UT1_BugSquash\bin\Debug\UT1_BugSquash.pdb
+C:\Users\bryan\source\repos\MyIGME\UT1_BugSquash\obj\Debug\UT1_BugSquash.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\MyIGME\UT1_BugSquash\obj\Debug\UT1_BugSquash.exe
+C:\Users\bryan\source\repos\MyIGME\UT1_BugSquash\obj\Debug\UT1_BugSquash.pdb
