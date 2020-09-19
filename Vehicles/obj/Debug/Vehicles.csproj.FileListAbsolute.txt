@@ -1,0 +1,6 @@
+C:\Users\bryan\source\repos\MyIGME\Vehicles\bin\Debug\Vehicles.dll
+C:\Users\bryan\source\repos\MyIGME\Vehicles\bin\Debug\Vehicles.pdb
+C:\Users\bryan\source\repos\MyIGME\Vehicles\obj\Debug\Vehicles.csprojAssemblyReference.cache
+C:\Users\bryan\source\repos\MyIGME\Vehicles\obj\Debug\Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\MyIGME\Vehicles\obj\Debug\Vehicles.dll
+C:\Users\bryan\source\repos\MyIGME\Vehicles\obj\Debug\Vehicles.pdb
