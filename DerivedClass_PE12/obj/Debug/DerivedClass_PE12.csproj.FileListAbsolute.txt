@@ -1,0 +1,7 @@
+C:\Users\bryan\source\repos\MyIGME\DerivedClass_PE12\bin\Debug\DerivedClass_PE12.exe.config
+C:\Users\bryan\source\repos\MyIGME\DerivedClass_PE12\bin\Debug\DerivedClass_PE12.exe
+C:\Users\bryan\source\repos\MyIGME\DerivedClass_PE12\bin\Debug\DerivedClass_PE12.pdb
+C:\Users\bryan\source\repos\MyIGME\DerivedClass_PE12\obj\Debug\DerivedClass_PE12.csprojAssemblyReference.cache
+C:\Users\bryan\source\repos\MyIGME\DerivedClass_PE12\obj\Debug\DerivedClass_PE12.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\MyIGME\DerivedClass_PE12\obj\Debug\DerivedClass_PE12.exe
+C:\Users\bryan\source\repos\MyIGME\DerivedClass_PE12\obj\Debug\DerivedClass_PE12.pdb
