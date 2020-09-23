@@ -20,7 +20,11 @@ namespace DerivedClass_PE12
     }
 	public class MyClass
 	{
-		private string myString = "test";
+		private string myString;
+		public string MyString
+		{
+			set { myString = "test"; }
+		}
 		public virtual string GetString()
 		{
 			return myString;
