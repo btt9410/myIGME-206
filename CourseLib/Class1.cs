@@ -11,7 +11,7 @@ namespace CourseLib
     {
         public DateTime startTime;
         public DateTime endTime;
-        public List<DayOfWeek> daysOfWeek;
+        public List<DayOfWeek> daysOfWeek = new List<DayOfWeek>();
     }
     public class Courses
     {
@@ -93,10 +93,12 @@ namespace CourseLib
             }
         }
     }
-    public class Course : Schedule
+    public class Course
     {
         public Course(string courseCode, string description)
         {
+            this.courseCode = courseCode;
+            this.description = description;
         }
         public string courseCode;
         public string description;

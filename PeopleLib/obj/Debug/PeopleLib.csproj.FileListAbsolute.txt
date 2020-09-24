@@ -1,0 +1,6 @@
+C:\Users\bryan\source\repos\MyIGME\PeopleLib\bin\Debug\PeopleLib.dll
+C:\Users\bryan\source\repos\MyIGME\PeopleLib\bin\Debug\PeopleLib.pdb
+C:\Users\bryan\source\repos\MyIGME\PeopleLib\obj\Debug\PeopleLib.csprojAssemblyReference.cache
+C:\Users\bryan\source\repos\MyIGME\PeopleLib\obj\Debug\PeopleLib.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\MyIGME\PeopleLib\obj\Debug\PeopleLib.dll
+C:\Users\bryan\source\repos\MyIGME\PeopleLib\obj\Debug\PeopleLib.pdb

@@ -1,6 +1,6 @@
-C:\Users\bryan\source\repos\MyIGME\CourseLib\bin\Debug\CourseLib.dll
 C:\Users\bryan\source\repos\MyIGME\CourseLib\bin\Debug\CourseLib.pdb
 C:\Users\bryan\source\repos\MyIGME\CourseLib\obj\Debug\CourseLib.csprojAssemblyReference.cache
 C:\Users\bryan\source\repos\MyIGME\CourseLib\obj\Debug\CourseLib.csproj.CoreCompileInputs.cache
 C:\Users\bryan\source\repos\MyIGME\CourseLib\obj\Debug\CourseLib.dll
 C:\Users\bryan\source\repos\MyIGME\CourseLib\obj\Debug\CourseLib.pdb
+C:\Users\bryan\source\repos\MyIGME\CourseLib\obj\Debug\CourseLib.csproj.CopyComplete

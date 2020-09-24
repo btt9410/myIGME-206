@@ -1,0 +1,12 @@
+C:\Users\bryan\source\repos\MyIGME\PeopleApp\bin\Debug\PeopleApp.exe.config
+C:\Users\bryan\source\repos\MyIGME\PeopleApp\bin\Debug\PeopleApp.exe
+C:\Users\bryan\source\repos\MyIGME\PeopleApp\bin\Debug\PeopleApp.pdb
+C:\Users\bryan\source\repos\MyIGME\PeopleApp\bin\Debug\CourseLib.dll
+C:\Users\bryan\source\repos\MyIGME\PeopleApp\bin\Debug\PeopleLib.dll
+C:\Users\bryan\source\repos\MyIGME\PeopleApp\bin\Debug\CourseLib.pdb
+C:\Users\bryan\source\repos\MyIGME\PeopleApp\bin\Debug\PeopleLib.pdb
+C:\Users\bryan\source\repos\MyIGME\PeopleApp\obj\Debug\PeopleApp.csprojAssemblyReference.cache
+C:\Users\bryan\source\repos\MyIGME\PeopleApp\obj\Debug\PeopleApp.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\MyIGME\PeopleApp\obj\Debug\PeopleApp.csproj.CopyComplete
+C:\Users\bryan\source\repos\MyIGME\PeopleApp\obj\Debug\PeopleApp.exe
+C:\Users\bryan\source\repos\MyIGME\PeopleApp\obj\Debug\PeopleApp.pdb
