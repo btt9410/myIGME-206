@@ -1,0 +1,7 @@
+C:\Users\bryan\source\repos\MyIGME\PetApp\bin\Debug\PetApp.exe.config
+C:\Users\bryan\source\repos\MyIGME\PetApp\bin\Debug\PetApp.exe
+C:\Users\bryan\source\repos\MyIGME\PetApp\bin\Debug\PetApp.pdb
+C:\Users\bryan\source\repos\MyIGME\PetApp\obj\Debug\PetApp.csprojAssemblyReference.cache
+C:\Users\bryan\source\repos\MyIGME\PetApp\obj\Debug\PetApp.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\MyIGME\PetApp\obj\Debug\PetApp.exe
+C:\Users\bryan\source\repos\MyIGME\PetApp\obj\Debug\PetApp.pdb
