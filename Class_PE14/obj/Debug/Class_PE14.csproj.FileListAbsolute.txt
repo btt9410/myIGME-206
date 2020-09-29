@@ -1,0 +1,7 @@
+C:\Users\bryan\source\repos\MyIGME\Class_PE14\bin\Debug\Class_PE14.exe.config
+C:\Users\bryan\source\repos\MyIGME\Class_PE14\bin\Debug\Class_PE14.exe
+C:\Users\bryan\source\repos\MyIGME\Class_PE14\bin\Debug\Class_PE14.pdb
+C:\Users\bryan\source\repos\MyIGME\Class_PE14\obj\Debug\Class_PE14.csprojAssemblyReference.cache
+C:\Users\bryan\source\repos\MyIGME\Class_PE14\obj\Debug\Class_PE14.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\MyIGME\Class_PE14\obj\Debug\Class_PE14.exe
+C:\Users\bryan\source\repos\MyIGME\Class_PE14\obj\Debug\Class_PE14.pdb
