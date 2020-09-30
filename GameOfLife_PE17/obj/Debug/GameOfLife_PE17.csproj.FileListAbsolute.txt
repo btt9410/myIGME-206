@@ -1,0 +1,7 @@
+C:\Users\bryan\source\repos\MyIGME\GameOfLife_PE17\bin\Debug\GameOfLife_PE17.exe.config
+C:\Users\bryan\source\repos\MyIGME\GameOfLife_PE17\bin\Debug\GameOfLife_PE17.exe
+C:\Users\bryan\source\repos\MyIGME\GameOfLife_PE17\bin\Debug\GameOfLife_PE17.pdb
+C:\Users\bryan\source\repos\MyIGME\GameOfLife_PE17\obj\Debug\GameOfLife_PE17.csprojAssemblyReference.cache
+C:\Users\bryan\source\repos\MyIGME\GameOfLife_PE17\obj\Debug\GameOfLife_PE17.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\MyIGME\GameOfLife_PE17\obj\Debug\GameOfLife_PE17.exe
+C:\Users\bryan\source\repos\MyIGME\GameOfLife_PE17\obj\Debug\GameOfLife_PE17.pdb

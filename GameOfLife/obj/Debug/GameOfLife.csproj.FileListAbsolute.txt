@@ -1,0 +1,6 @@
+C:\Users\bryan\source\repos\MyIGME\GameOfLife\bin\Debug\GameOfLife.dll
+C:\Users\bryan\source\repos\MyIGME\GameOfLife\bin\Debug\GameOfLife.pdb
+C:\Users\bryan\source\repos\MyIGME\GameOfLife\obj\Debug\GameOfLife.csprojAssemblyReference.cache
+C:\Users\bryan\source\repos\MyIGME\GameOfLife\obj\Debug\GameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\MyIGME\GameOfLife\obj\Debug\GameOfLife.dll
+C:\Users\bryan\source\repos\MyIGME\GameOfLife\obj\Debug\GameOfLife.pdb
