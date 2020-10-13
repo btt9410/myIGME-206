@@ -1,0 +1,7 @@
+C:\Users\bryan\source\repos\MyIGME\StructToClass\bin\Debug\StructToClass.exe.config
+C:\Users\bryan\source\repos\MyIGME\StructToClass\bin\Debug\StructToClass.exe
+C:\Users\bryan\source\repos\MyIGME\StructToClass\bin\Debug\StructToClass.pdb
+C:\Users\bryan\source\repos\MyIGME\StructToClass\obj\Debug\StructToClass.csprojAssemblyReference.cache
+C:\Users\bryan\source\repos\MyIGME\StructToClass\obj\Debug\StructToClass.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\MyIGME\StructToClass\obj\Debug\StructToClass.exe
+C:\Users\bryan\source\repos\MyIGME\StructToClass\obj\Debug\StructToClass.pdb
