@@ -1,0 +1,10 @@
+C:\Users\bryan\source\repos\MyIGME\DontDie_PE22\bin\Debug\DontDie_PE22.exe.config
+C:\Users\bryan\source\repos\MyIGME\DontDie_PE22\bin\Debug\DontDie_PE22.exe
+C:\Users\bryan\source\repos\MyIGME\DontDie_PE22\bin\Debug\DontDie_PE22.pdb
+C:\Users\bryan\source\repos\MyIGME\DontDie_PE22\obj\Debug\DontDie_PE22.csprojAssemblyReference.cache
+C:\Users\bryan\source\repos\MyIGME\DontDie_PE22\obj\Debug\DontDie_PE22.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\MyIGME\DontDie_PE22\obj\Debug\DontDie_PE22.exe
+C:\Users\bryan\source\repos\MyIGME\DontDie_PE22\obj\Debug\DontDie_PE22.pdb
+C:\Users\bryan\source\repos\MyIGME\DontDie_PE22\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bryan\source\repos\MyIGME\DontDie_PE22\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bryan\source\repos\MyIGME\DontDie_PE22\obj\Debug\DontDie_PE22.csproj.CopyComplete
