@@ -42,7 +42,6 @@ namespace Palindrome_UT3
                 counterInput = counterInput.Replace(counterInput[0].ToString(), String.Empty);
             }
 
-            string reverseInput = "";
             LinkedList<object> reverseSentence = new LinkedList<object>();
             LinkedListNode<object> node;
 
@@ -56,7 +55,6 @@ namespace Palindrome_UT3
             foreach(char c in reverseSentence)
             {
                 Console.Write(c);
-                reverseInput += c;
             }
             Console.WriteLine();
 
