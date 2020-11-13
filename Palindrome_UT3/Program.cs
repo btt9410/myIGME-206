@@ -43,37 +43,39 @@ namespace Palindrome_UT3
             }
 
             string reverseInput = "";
-            LinkedList<object> reverseList = new LinkedList<object>();
+            LinkedList<object> reverseSentence = new LinkedList<object>();
             LinkedListNode<object> node;
 
             node = sentence.Last;
             while(node != null)
             {
-                reverseList.AddLast(node.Value);
+                reverseSentence.AddLast(node.Value);
                 node = node.Previous;
             }
 
-            foreach(char c in reverseList)
+            foreach(char c in reverseSentence)
             {
                 Console.Write(c);
                 reverseInput += c;
             }
             Console.WriteLine();
 
-            input = input.Replace(",", "");
-            reverseInput = reverseInput.Replace(",", "");
-            input = input.Replace(".", "");
-            reverseInput = reverseInput.Replace(".", "");
-            input = input.Replace("!", "");
-            reverseInput = reverseInput.Replace("!", "");
-            input = input.Replace("?", "");
-            reverseInput = reverseInput.Replace("?", "");
-            input = input.Replace("'", "");
-            reverseInput = reverseInput.Replace("'", "");
-            input = input.Replace(" ", "");
-            reverseInput = reverseInput.Replace(" ", "");
+            sentence.Remove(' ');
+            sentence.Remove('!');
+            sentence.Remove('.');
+            sentence.Remove(',');
+            sentence.Remove('?');
+            sentence.Remove('\"');
+            sentence.Remove('\'');
+            reverseSentence.Remove(' ');
+            reverseSentence.Remove('!');
+            reverseSentence.Remove('.');
+            reverseSentence.Remove(',');
+            reverseSentence.Remove('?');
+            reverseSentence.Remove('\"');
+            reverseSentence.Remove('\'');
 
-            if (input.ToLower().Equals(reverseInput.ToLower()))
+            if (sentence.ToString().Equals(reverseSentence.ToString(), StringComparison.OrdinalIgnoreCase))
             {
                 Console.WriteLine("This string is a palindrome.");
             }
