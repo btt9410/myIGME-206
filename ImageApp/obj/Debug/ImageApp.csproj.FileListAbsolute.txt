@@ -1,0 +1,10 @@
+C:\Users\bryan\source\repos\MyIGME\ImageApp\bin\Debug\ImageApp.exe.config
+C:\Users\bryan\source\repos\MyIGME\ImageApp\bin\Debug\ImageApp.exe
+C:\Users\bryan\source\repos\MyIGME\ImageApp\bin\Debug\ImageApp.pdb
+C:\Users\bryan\source\repos\MyIGME\ImageApp\obj\Debug\ImageApp.csprojAssemblyReference.cache
+C:\Users\bryan\source\repos\MyIGME\ImageApp\obj\Debug\ImageApp.Form1.resources
+C:\Users\bryan\source\repos\MyIGME\ImageApp\obj\Debug\ImageApp.Properties.Resources.resources
+C:\Users\bryan\source\repos\MyIGME\ImageApp\obj\Debug\ImageApp.csproj.GenerateResource.cache
+C:\Users\bryan\source\repos\MyIGME\ImageApp\obj\Debug\ImageApp.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\MyIGME\ImageApp\obj\Debug\ImageApp.exe
+C:\Users\bryan\source\repos\MyIGME\ImageApp\obj\Debug\ImageApp.pdb
