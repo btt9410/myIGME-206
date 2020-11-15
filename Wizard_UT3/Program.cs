@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 
 namespace Wizard_UT3
 {
-    delegate int sortAges(Wizard one, Wizard two);
     public class Wizard
     {
         public string name;
