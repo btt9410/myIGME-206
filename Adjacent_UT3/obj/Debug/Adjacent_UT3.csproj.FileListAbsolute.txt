@@ -1,0 +1,7 @@
+C:\Users\bryan\source\repos\MyIGME\Adjacent_UT3\bin\Debug\Adjacent_UT3.exe.config
+C:\Users\bryan\source\repos\MyIGME\Adjacent_UT3\bin\Debug\Adjacent_UT3.exe
+C:\Users\bryan\source\repos\MyIGME\Adjacent_UT3\bin\Debug\Adjacent_UT3.pdb
+C:\Users\bryan\source\repos\MyIGME\Adjacent_UT3\obj\Debug\Adjacent_UT3.csprojAssemblyReference.cache
+C:\Users\bryan\source\repos\MyIGME\Adjacent_UT3\obj\Debug\Adjacent_UT3.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\MyIGME\Adjacent_UT3\obj\Debug\Adjacent_UT3.exe
+C:\Users\bryan\source\repos\MyIGME\Adjacent_UT3\obj\Debug\Adjacent_UT3.pdb
