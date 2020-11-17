@@ -34,37 +34,48 @@ namespace Adjacent_UT3
         };
 
         static List<Node> path = new List<Node>();
+        static LinkedList<Node> linkedPath = new LinkedList<Node>();
+
         static bool wait = false;
         static int intState = 0;
         static string userState;
 
         static void Main(string[] args)
         {
+
             Node node;
 
             node = new Node(0);
             path.Add(node);
+            linkedPath.AddLast(node);
 
             node = new Node(1);
             path.Add(node);
+            linkedPath.AddLast(node);
 
             node = new Node(2);
             path.Add(node);
+            linkedPath.AddLast(node);
 
             node = new Node(3);
             path.Add(node);
+            linkedPath.AddLast(node);
 
             node = new Node(4);
             path.Add(node);
+            linkedPath.AddLast(node);
 
             node = new Node(5);
             path.Add(node);
+            linkedPath.AddLast(node);
 
             node = new Node(6);
             path.Add(node);
+            linkedPath.AddLast(node);
 
             node = new Node(7);
             path.Add(node);
+            linkedPath.AddLast(node);
 
             path[0].AddEdge(1, path[1]);
             path[0].AddEdge(5, path[2]);
@@ -89,7 +100,7 @@ namespace Adjacent_UT3
 
             path[6].AddEdge(1, path[4]);
             path[6].edges.Sort();
-
+            
             List<Node> shortestPath = GetShortestPathDijkstra();
 
             string stringState;
@@ -99,7 +110,8 @@ namespace Adjacent_UT3
             Thread thread = new Thread(DFS);
             thread.Start();
 
-            while (intState != 7)
+            //while (intState != 7)
+            while(intState != linkedPath.Last.Value.intState)
             {
                 stringState = IntToStringState(intState);
                 Console.WriteLine("Current state: " + stringState);
@@ -115,7 +127,12 @@ namespace Adjacent_UT3
                 Console.WriteLine(userState);
 
 
-                int[] stateList = graphList[intState];
+                //int[] stateList = graphList[intState];
+                int[] stateList = new int[linkedPath.Count];
+                for(int i = 0; i < linkedPath.Count; i++)
+                {
+                    stateList[i] = linkedPath.ElementAt<Node>(i).intState;
+                }
                 bool valid = false;
 
                 if (stateList != null)
@@ -360,5 +377,6 @@ namespace Adjacent_UT3
             {
                 return this.cost.CompareTo(e.cost);
             }
-        }
+
     }
+}

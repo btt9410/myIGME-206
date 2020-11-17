@@ -22,6 +22,8 @@ namespace Wizard_UT3
     {
         static void Main(string[] args)
         {
+
+            // delegate
             Comparison<Wizard> sortAge = delegate (Wizard a, Wizard b)
             {
                 int compare = a.age.CompareTo(b.age);
@@ -68,6 +70,36 @@ namespace Wizard_UT3
 
             Console.WriteLine("Sorted: ");
             foreach(Wizard w in wList)
+            {
+                Console.WriteLine(w.name + ": " + w.age);
+            }
+            Console.WriteLine();
+            // lambda
+            List<Wizard> wLambList = new List<Wizard>();
+
+            wLambList.Add(one);
+            wLambList.Add(two);
+            wLambList.Add(three);
+            wLambList.Add(four);
+            wLambList.Add(five);
+            wLambList.Add(six);
+            wLambList.Add(seven);
+            wLambList.Add(eight);
+            wLambList.Add(nine);
+            wLambList.Add(ten);
+
+            Console.WriteLine("Unsorted: ");
+            foreach(Wizard w in wLambList)
+            {
+                Console.WriteLine(w.name + ": " + w.age);
+            }
+
+            var sortedWLambList = wLambList.OrderBy(w => w.age);
+
+            Console.WriteLine();
+
+            Console.WriteLine("Sorted: ");
+            foreach (Wizard w in sortedWLambList)
             {
                 Console.WriteLine(w.name + ": " + w.age);
             }

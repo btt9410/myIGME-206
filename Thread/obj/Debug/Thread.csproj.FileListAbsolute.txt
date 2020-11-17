@@ -1,0 +1,7 @@
+C:\Users\bryan\source\repos\MyIGME\Thread\bin\Debug\Thread.exe.config
+C:\Users\bryan\source\repos\MyIGME\Thread\bin\Debug\Thread.exe
+C:\Users\bryan\source\repos\MyIGME\Thread\bin\Debug\Thread.pdb
+C:\Users\bryan\source\repos\MyIGME\Thread\obj\Debug\Thread.csprojAssemblyReference.cache
+C:\Users\bryan\source\repos\MyIGME\Thread\obj\Debug\Thread.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\MyIGME\Thread\obj\Debug\Thread.exe
+C:\Users\bryan\source\repos\MyIGME\Thread\obj\Debug\Thread.pdb
