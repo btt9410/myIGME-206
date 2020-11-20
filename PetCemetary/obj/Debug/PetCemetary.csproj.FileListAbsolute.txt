@@ -1,0 +1,7 @@
+C:\Users\bryan\source\repos\MyIGME\PetCemetary\bin\Debug\PetCemetary.exe.config
+C:\Users\bryan\source\repos\MyIGME\PetCemetary\bin\Debug\PetCemetary.exe
+C:\Users\bryan\source\repos\MyIGME\PetCemetary\bin\Debug\PetCemetary.pdb
+C:\Users\bryan\source\repos\MyIGME\PetCemetary\obj\Debug\PetCemetary.csprojAssemblyReference.cache
+C:\Users\bryan\source\repos\MyIGME\PetCemetary\obj\Debug\PetCemetary.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\MyIGME\PetCemetary\obj\Debug\PetCemetary.exe
+C:\Users\bryan\source\repos\MyIGME\PetCemetary\obj\Debug\PetCemetary.pdb
